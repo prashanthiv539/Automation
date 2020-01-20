@@ -8,5 +8,6 @@ public class Example2
 void test()
 {
 	System.out.println("sample git commit");
+	System.out.println("Created new branch");
 }
 }
